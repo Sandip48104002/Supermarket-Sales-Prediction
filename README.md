@@ -77,15 +77,3 @@ https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
 
 
 
-
-# Contributors
-
-```
-o  MAYUR KYATHAM
-
-o  PRERNA SHAKWAR 
-
-o  UTSAV KUNTALWAD
-
-o  SRUSHTI SAWANT
- ```
